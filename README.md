@@ -31,7 +31,7 @@ April 26: Finalize
 * Deliverables: Final Predictive Ability
 
 May 3: Practice Presentation
-* Deliverables: [Slide deck]("Housing Price Prediction.pdf")
+* Deliverables: [Slide deck](Housing%20Price%20Prediction.pdf)
 
 ## Conclusion
 Our analysis can serve as a tool for real estate investors and homeowners to check property valuations. This is important in:
