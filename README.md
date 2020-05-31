@@ -34,8 +34,8 @@ May 3: Practice Presentation
 * Deliverables: [Slide deck](Housing Price Prediction.pdf)
 
 ## Conclusion
-Our analysis scan serve as a tool for real estate investors and homeowners to check property valuations. This is important in:
+Our analysis can serve as a tool for real estate investors and homeowners to check property valuations. This is important in:
 * Ensuring accurate property tax and asset management 
 * Identifying good deals for primary residence or investment purchases
 
-**Best Model:** 83.86% hold out accuracy on Random Forest Regressor with max depth of 15 and 20 estimators. 
+**Best Model:** 83.86% hold out accuracy on Random Forest Regressor with max depth of 15 and 20 estimators. Using this model to predict on out of sample data, we got prices that were very close to the neighborhood median price. This is reasonable, since our features were only general characteristics of the propeties, so the model would not be able to capture the idiosyncrasies of individual properties very well. Properties in one neighborhood tend to be built around the same time and have similar basic characteristics. 
